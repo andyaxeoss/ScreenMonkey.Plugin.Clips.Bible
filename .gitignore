@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/ScreenMonkey.Plugin.Clips.Bible/.vs/ScreenMonkey.Plugin.Clips.Bible/v16
+/ScreenMonkey.Plugin.Clips.Bible/bin/Debug
+/ScreenMonkey.Plugin.Clips.Bible/obj/Debug
